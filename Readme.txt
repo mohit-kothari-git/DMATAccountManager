@@ -57,6 +57,4 @@ Step 3:- ***********************JAR File and Code Run***************************
 
 Enjoy the project Incase of any errors in setup kindly contact 
 
-mohkotha@amazon.com on chime/mail.
-
 Developed with love Mohit Kothari
